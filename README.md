@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/24932503/149523128-88a3ba10-fae4-42b5-9a51-8e91c416be5e.png)
 
-![image](https://user-images.githubusercontent.com/24932503/149524095-bb87f742-4247-4c63-9d16-11ac8429fe6a.png)
+![image](https://user-images.githubusercontent.com/24932503/149524095-bb87f742-4247-4c63-9d16-11ac8429fe6a.png)![image](https://user-images.githubusercontent.com/24932503/149525171-e6ea7685-e2ad-4621-85b7-eb3820df8b34.png)
+
 
 # SoftRF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Join the chat at https://gitter.im/lyusupov/SoftRF](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lyusupov/SoftRF?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://github.com/lyusupov/SoftRF/actions/workflows/main.yml/badge.svg)](https://github.com/lyusupov/SoftRF/actions/workflows/main.yml "Build Status") 
 DIY, multifunctional, compatible, sub-1 GHz ISM band radio based proximity awareness system for general aviation.
