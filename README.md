@@ -9,45 +9,6 @@
 
 # SoftRF firmware build instructions
 
-* [NodeMCU](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#nodemcu)<br>
-* [ESP32](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#esp32)<br>
-* [Raspberry Pi](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#raspberry-pi)<br>
-* [CC13XX](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#cc13xx)<br>
-* [STM32](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#stm32)<br>
-* [ASR650x](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#asr650x)<br>
-* [nRF52840](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#nrf52840)<br>
-* [SAMD21](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source#samd21)<br>
-
-<br>
-
-## NodeMCU
-
-1. Follow [these official instructions](https://github.com/esp8266/Arduino#installing-with-boards-manager)
-  to install Arduino IDE and latest Arduino ESP8266 Core
-2. Become familiar with IDE and **NodeMCU** by building and uploading of a basic **Blink** sketch:<br>
-
-    _File_ -> _Examples_ -> _ESP8266_ -> _Blink_ <br>
-
-    then<br>
-
-    _Sketch_ -> _Upload_
-
-3. When you are done with the lesson, close your **Arduino** application
-4. open ``<My Documents>`` (Windows) or ``<Home>`` (Linux) directory
-5. create **Arduino** sub-directory
-6. transfer full content of **SoftRF** and **libraries** GitHub folders into the sub-directory:
-
-    [SoftRF](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source/SoftRF) &nbsp;&nbsp;**-->** ``<My Documents>``/Arduino/SoftRF <br>
-    [libraries](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/source/libraries) **-->** ``<My Documents>``/Arduino/libraries <br>
-
-7. start **Arduino** application again
-8. open **SoftRF** sketch from _File_ -> _Open_ menu
-9. Select _Tools_ -> _Board_ -> _NodeMCU_ _1.0_
-10. in _Tools_ -> _lwIP Variant_  -> _v2 Higher Bandwidth_
-11. _Sketch_ -> _Upload_
-
-<br>
-
 ## ESP32
 
 1. Follow [these official instructions](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md)
